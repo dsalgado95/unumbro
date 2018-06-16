@@ -1,6 +1,6 @@
 # UNUMBRO
-Theoretical Protoype
-v. 1.0
+# Theoretical Protoype
+#v. 1.0
 Daniel Salgado
 16.6.2018
 
